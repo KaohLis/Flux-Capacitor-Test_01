@@ -1,0 +1,5 @@
+[
+{"name":"flare.DA Equipment.cluster.E1-DA-012 Zeta Potential Analyzer", "size":3812,"imports":
+  ["flare.Room.cluster.Open Lab"]},
+{"name":"flare.Room.cluster.Open Lab"},
+]
