@@ -1,0 +1,15 @@
+[
+{"name":"flare.DA Equipment.cluster.E1-DA-01, IVIS", "size":3812,"imports":
+  ["flare.Room.cluster.Room 364C",
+    "flare.Electrical.cluster.115 Volts", "flare.Electrical.cluster.4 Amps","flare.Electrical.cluster.250 VA", "flare.Electrical.cluster.50/60 Hz",
+    "flare.Services.cluster.VAC"]},
+
+{"name":"flare.Room.cluster.Room 364C"},
+
+{"name":"flare.Electrical.cluster.115 Volts"},
+{"name":"flare.Electrical.cluster.4 Amps"},
+{"name":"flare.Electrical.cluster.250 VA"},
+{"name":"flare.Electrical.cluster.50/60 Hz"},
+
+{"name":"flare.Services.cluster.VAC"},
+]
