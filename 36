@@ -1,0 +1,18 @@
+[
+{"name":"flare.Mike Lee.cluster.Mike Lee Offer, Dynamo", "size":2160,"imports":["flare.Not Mike Lee.cluster.Not Mike Lee, Need, Dynamo"]},
+{"name":"flare.Mike Lee.cluster.Mike Lee Offer, Space Planning", "size":2160,"imports":["flare.Not Mike Lee.cluster.Not Mike Lee, Need, Space Planning"]},
+{"name":"flare.Mike Lee.cluster.Mike Lee Offer, Animation"},
+{"name":"flare.Mike Lee.cluster.Mike Lee Offer, Anatomy Lab"},
+{"name":"flare.Mike Lee.cluster.Mike Lee Need, Python", "size":2160,"imports":["flare.Not Mike Lee.cluster.Not Mike Lee, Offer, Python"]},
+{"name":"flare.Mike Lee.cluster.Mike Lee Need, Healthcare Planning", "size":2160,"imports":["flare.Not Mike Lee.cluster.Not Mike Lee, Offer, Healthcare Planning"]},
+{"name":"flare.Mike Lee.cluster.Mike Lee Need, Power BI"},
+{"name":"flare.Mike Lee.cluster.Mike Lee Need, Specifications"},
+{"name":"flare.Not Mike Lee.cluster.Not Mike Lee, Offer, Python"},
+{"name":"flare.Not Mike Lee.cluster.Not Mike Lee, Offer, Healthcare Planning"},
+{"name":"flare.Not Mike Lee.cluster.Not Mike Lee, Offer, Animation"},
+{"name":"flare.Not Mike Lee.cluster.Not Mike Lee, Offer, Data Analysis"},
+{"name":"flare.Not Mike Lee.cluster.Not Mike Lee, Need, Dynamo", "size":2160,"imports":["flare. Mike Lee.cluster. Mike Lee, Need, Dynamo"]},
+{"name":"flare.Not Mike Lee.cluster.Not Mike Lee, Need, Space Planning", "size":2160,"imports":["flare. Mike Lee.cluster. Mike Lee, Need, Dynamo"]},
+{"name":"flare.Not Mike Lee.cluster.Not Mike Lee, Need, Grashopper"},
+{"name":"flare.Not Mike Lee.cluster.Not Mike Lee, Need, Energy Analysis"}
+]
